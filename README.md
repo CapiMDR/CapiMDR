@@ -1,19 +1,7 @@
-# Hey, I'm CapiMDR!
+# Hey, I'm Capi!
 
 Software developer interested in full stack web development, game programming, AI, and building useful and fun tools for everyday use.
 I also have experience in graphic design and digital illustration using Adobe Photoshop, Illustrator, and Premiere Pro.
-
-## Featured Projects
-
-### ♟️ CapraStar
-A UCI compliant chess engine in JavaScript featuring bitboards, alpha-beta search, advanced evaluation, and a dedicated browser interface.
-
-### 🐦‍⬛ Munin
-A WhatsApp group assistant built around natural-language tools,
-reminders, saved messages, events, and group activities.
-
-### 💪 Svelter
-An offline-first workout tracking PWA built with Svelte and IndexedDB.
 
 ## Technologies
 
