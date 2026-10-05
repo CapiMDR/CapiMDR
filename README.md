@@ -1,4 +1,7 @@
-# Hey, I'm Capi!
+<p align="center">
+  <img src="GitHub_Banner.png" alt="Banner">
+</p>
+
 
 Software developer interested in full stack web development, game programming, AI, and building useful and fun tools for everyday use.
 I also have experience in graphic design and digital illustration using Adobe Photoshop, Illustrator, and Premiere Pro.
